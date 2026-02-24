@@ -72,6 +72,23 @@ Result     — what happened, ideally with a number
 
 ---
 
+## Beyond STAR — other frameworks worth knowing
+
+STAR works for 90% of behavioral questions. These are worth knowing for specific situations.
+
+| Framework | Stands for | When to use it |
+|---|---|---|
+| **STAR** | Situation, Task, Action, Result | Default — most behavioral questions |
+| **STARR** | Situation, Task, Action, Result, Reflection | When growth mindset matters — add what you learned and would do differently |
+| **SOAR** | Situation, Obstacle, Action, Result | When the difficulty is the point — turnarounds, hard deadlines, conflict |
+| **CAR** | Context, Action, Result | Concise answers where context is simple — avoids over-explaining setup |
+| **PARADE** | Problem, Anticipated outcome, Role, Action, Decision, End result | Consulting interviews (McKinsey, BCG) — shows judgment vs. what you expected |
+| **DIGS** | Dilemma, Insight, Growth, Success | Failure and weakness questions — STAR produces flat answers here |
+
+**How to pick:** Default to STAR. Use SOAR when the obstacle is central. Use PARADE for consulting. Use DIGS for failure/weakness questions. The framework matters less than the story — pick what makes your answer clearest.
+
+---
+
 ## Track-specific prep
 
 - [Tech — SWE, Data Engineering, Data Science](./tech.md)
