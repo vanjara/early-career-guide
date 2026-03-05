@@ -1,10 +1,11 @@
 import json
+import os
 import urllib.request
 import urllib.error
 import time
 
-TOKEN = "YOUR_NOTION_TOKEN"
-PARENT_ID = "311b3490-e35a-80bb-afcf-fb14f5a27feb"
+TOKEN = os.environ["NOTION_TOKEN"]
+PARENT_ID = os.environ.get("NOTION_PARENT_PAGE_ID", "311b3490-e35a-80bb-afcf-fb14f5a27feb")
 HEADERS = {
     "Authorization": f"Bearer {TOKEN}",
     "Content-Type": "application/json",
