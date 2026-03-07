@@ -4,7 +4,7 @@
 
 Most people hear "networking" and picture awkward events, forced small talk, and handing out business cards. That's not what this is.
 
-Networking for job search is simpler: **talk to people who are doing what you want to do, and learn from them.**
+Networking for job search is simple: **Talk to people doing the work you want to do. Learn from them.**
 
 You're not asking for favors. You're not being transactional. You're having conversations with people who were in your exact position not long ago — and most of them are happy to help because someone helped them.
 
@@ -49,7 +49,7 @@ What makes this work:
 
 ## The informational interview
 
-A 20-30 minute call where you ask someone about their experience. Not a job interview — a conversation.
+A 20-30 minute call where you ask someone about their experience. Not a job interview — a conversation. Most calls last 15–20 minutes. Respect that.
 
 **What to ask:**
 
@@ -79,6 +79,21 @@ Then actually keep them posted when something happens.
 
 ---
 
+## Why someone refers you
+
+A referral only works if the person referring you is willing to put their name next to yours. When someone refers a candidate, they're taking a reputational risk — if you bomb the interview or turn out to be a bad fit, it reflects on them.
+
+People refer you when:
+- They've seen your work — through a project, a conversation, something you built or wrote
+- The interaction left them thinking "this person gets it"
+- They trust you enough to attach their name to you
+
+This is why asking cold for a referral doesn't work. You're asking someone to take a reputational risk for a stranger. The conversation has to come first — the referral is what happens when it goes well.
+
+A referral from someone who barely knows you also carries little weight. Hiring managers can tell the difference between "I worked with this person and they're excellent" and "someone I chatted with once asked me to submit their name." The value is in the relationship, not the act of being referred.
+
+---
+
 ## Cold outreach on LinkedIn
 
 Once you've exhausted alumni and warm connections, go broader.
@@ -97,6 +112,8 @@ Once you've exhausted alumni and warm connections, go broader.
 - Attaching your resume in the first message
 - Asking for a referral before having a conversation
 - Copy-pasting the same message to 50 people — people can tell
+
+**On hiring managers:** Reaching out to a hiring manager directly works best at smaller companies and startups. At larger companies, everything routes through recruiters — contact the recruiter listed on the posting instead.
 
 ---
 
@@ -119,6 +136,8 @@ Good: *"Data Analyst | Python, SQL, Tableau | Recent grad @ [University]"*
 ---
 
 ## Building a simple system
+
+A network is built through follow-ups, not introductions. One conversation and disappearing doesn't compound. Staying in touch does.
 
 ```
 Weekly networking routine:

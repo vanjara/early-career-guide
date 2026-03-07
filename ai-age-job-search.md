@@ -4,7 +4,7 @@
 
 AI tools have made it trivially easy to apply to hundreds of jobs. Everyone is doing it. Companies are now receiving 1,000–2,000 applications for roles that used to get 200. ATS filters are stricter. Recruiters are more overwhelmed. And entry-level roles — the ones new grads are competing for — are the hardest hit.
 
-The old model — optimize resume → apply broadly → get interviews → convert — is broken for most people in most markets.
+The old model — optimize resume → apply broadly → get interviews → convert — is less reliable than it used to be for most people in most markets.
 
 The new model: **build presence → get found → apply selectively → convert.**
 
@@ -88,7 +88,7 @@ Most candidates use AI to write generic cover letters at scale. The candidates w
 
 ---
 
-### 3. Referrals are now the primary channel
+### 3. For competitive roles, referrals increase the odds of getting seen
 
 Referrals always had better conversion than cold applications. In the current market, for competitive roles, they're often the only way your resume gets seen by a human.
 
@@ -161,10 +161,6 @@ These are for research, preparation, and skill-building — not mass-applying.
 
 ## The reframe
 
-The job search has not just gotten harder. The *type* of work has changed.
+You are no longer competing on applications. You are competing on signal — your visibility, your relationships, the specificity of your preparation.
 
-You are no longer competing on applications. You are competing on signal — the quality of your relationships, the visibility of your skills, and the specificity of your preparation.
-
-The candidates getting offers in this market are not the ones applying the most. They are the ones who are most *known* — by a recruiter who found their GitHub, a hiring manager who saw their LinkedIn post, an alumni who referred them because they had a real conversation.
-
-Build presence. Build relationships. Apply selectively. That's the job search now.
+Build presence. Build relationships. Apply selectively.

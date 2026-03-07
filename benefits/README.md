@@ -10,6 +10,25 @@ This section explains what each benefit is, what to look for, and what questions
 
 ---
 
+## What total compensation actually is
+
+Base salary is one line item. Your actual compensation is the sum of several parts:
+
+```
+Base salary          $85,000
+Signing bonus          $5,000  (one-time)
+Annual bonus           $5,000  (target — varies)
+RSUs                  $10,000  (annualized over vesting period)
+401k match             $3,400  (e.g. 4% match on $85k)
+Benefits value        ~$7,000  (health insurance, etc.)
+
+Total compensation   ~$115,400
+```
+
+When comparing two offers, compare total comp — not just base. The sections below explain each component.
+
+---
+
 ## Health Insurance (Medical)
 
 In the US, health insurance is mostly employer-sponsored. Your employer pays a portion of the premium — you pay the rest, deducted from each paycheck.
@@ -183,7 +202,7 @@ Lets you buy company stock at a discount (usually 10–15%) through payroll dedu
 
 **Why it's almost always worth participating:**
 
-Even a straight 15% discount = guaranteed 15% return if you sell immediately. Many plans also have a lookback provision — shares are purchased at 15% off the lower of the price at the start or end of the offering period, which can dramatically increase the effective return.
+Even a straight 15% discount = often a near-guaranteed return if you sell immediately. Many plans also have a lookback provision — shares are purchased at 15% off the lower of the price at the start or end of the offering period, which can dramatically increase the effective return.
 
 **What to ask:** What's the discount rate? Is there a lookback provision? What's the contribution limit?
 

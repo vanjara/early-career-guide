@@ -1,11 +1,11 @@
-# Notion Page: People to Follow
+# Notion Page: People & Resources
 
-PAGE TITLE: 👥 People to Follow
+PAGE TITLE: 👥 People & Resources
 PAGE ICON: 👥
 
 ---
 
-[H1] People to Follow
+[H1] People & Resources
 
 [CALLOUT] 💡
 Follow 5–10 people max, not 50. More follows = more noise. Pick one person per category that resonates with how you think and go deep. The goal is a system, not a feed.

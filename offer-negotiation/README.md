@@ -12,6 +12,18 @@ Companies expect negotiation. Recruiters are not offended by it. The offer is no
 
 ---
 
+## The negotiation starts earlier than you think
+
+Recruiters often ask about salary expectations in the first screening call — before you know the full scope of the role or have any leverage. Your answer there shapes the final offer.
+
+If possible, redirect:
+
+> *"I'm still learning about the full scope of the role. What's the budgeted range for this position?"*
+
+If they push for a number, give a range slightly above your minimum. The bottom of your range often becomes the offer.
+
+---
+
 ## When you get the call
 
 You do not need to respond immediately. Ever.
@@ -55,7 +67,7 @@ Look at: base salary, bonus, equity (if any), and total comp — not just base.
 - Annual bonus target
 - Equity / RSUs (at startups especially)
 - Remote/hybrid flexibility
-- Title
+- Title (more flexible at smaller companies — large companies often fix titles to levels)
 
 **Rarely negotiable at big companies for new grads:**
 - Benefits structure

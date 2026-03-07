@@ -11,7 +11,7 @@
 - Candidates on F-1 OPT or student visa navigating job search with visa constraints
 - Master's students (MS in CS, data science, analytics, finance) transitioning or pivoting
 
-**If you're an MS student:** An MS opens some doors and is irrelevant at others. It matters for ML/AI research, quant roles, grad-specific consulting tracks, and data scientist roles at larger companies. It doesn't matter for most SWE, startup, or PM roles — those evaluate skills and interviews, not degree level. The risk: competing for undergrad-level roles while carrying grad-level salary expectations. Target roles that explicitly value a graduate degree. Your thesis, TA experience, and any pre-MS work experience are all legitimate portfolio and resume items — lead with them.
+**If you're an MS student:** The positioning question matters more than the degree itself. Target roles that explicitly value a graduate degree — don't apply as if you're competing with undergrads. Your thesis or capstone project, TA or research experience, and any pre-MS work experience are all legitimate portfolio and resume items — lead with them.
 
 ---
 
@@ -61,18 +61,18 @@ Don't accept on the spot. Go to Offer & Negotiation + Benefits.
 | 💰 Offer & Negotiation | How to evaluate and negotiate an offer |
 | 🏥 Benefits | Health, dental, 401k, RSUs, ESPP explained |
 | 🛂 Visa / OPT Track | OPT timeline, finding sponsors, H1B basics |
-| 👥 People to Follow | Curated by track — signal, not noise |
+| 👥 People & Resources | Curated by track — signal, not noise |
 
 ---
 
 ## The honest timeline
 
-> Actively searching, doing everything right: 8–12 weeks to an offer
-> Passively applying, Easy Apply only: 5–6 months, maybe longer
-> OPT candidates: Start before graduation — your clock starts at graduation day
+> Strong candidate, doing everything right: 3–6 months
+> Average candidate, spray and pray: 6–12 months, no guarantee
+> OPT candidates: Start 6 months before graduation — not 60 days
 >
-> If you're 3 weeks in and discouraged — that's normal.
-> If you're 3 months in with no traction — something in your system needs to change, not just your effort level.
+> If you're in month 2 and discouraged — that's normal.
+> If you're in month 5 with no traction — something in your approach needs to change, not just your effort level.
 
 ---
 
