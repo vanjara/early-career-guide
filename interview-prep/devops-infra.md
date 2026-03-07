@@ -57,6 +57,8 @@ Framework for reliability design questions:
 
 > "Production is down. Users can't log in. Walk me through how you'd diagnose it."
 
+As a new grad, you won't have real on-call experience — and interviewers know that. They're not testing whether you've been paged at 3am. They're testing whether you think systematically under pressure. Show your process:
+
 Don't panic. Don't jump to solutions. Show your process:
 1. What do you know? (symptoms, scope, when it started)
 2. What do you check first? (dashboards, logs, recent deploys)

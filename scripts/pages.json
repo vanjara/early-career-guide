@@ -1,0 +1,98 @@
+{
+  "parent_id": "311b3490-e35a-80bb-afcf-fb14f5a27feb",
+  "pages": [
+    {
+      "title": "Start Here",
+      "notion_id": "311b3490-e35a-819f-a87b-f88ec041204d",
+      "file": null,
+      "icon": "🏠"
+    },
+    {
+      "title": "Resume",
+      "notion_id": "311b3490-e35a-8118-a433-e2e62ce8ec33",
+      "file": "resume/README.md",
+      "icon": "🗂"
+    },
+    {
+      "title": "Job Boards",
+      "notion_id": "311b3490-e35a-81f3-97fe-d899193b472a",
+      "file": "job-boards/README.md",
+      "icon": "📋"
+    },
+    {
+      "title": "Job Search Strategy",
+      "notion_id": "311b3490-e35a-8184-99bf-f3061af54319",
+      "file": "job-search-strategy/README.md",
+      "icon": "🎯"
+    },
+    {
+      "title": "Networking",
+      "notion_id": "311b3490-e35a-8125-8547-ff4780dcb3a1",
+      "file": "networking/README.md",
+      "icon": "🤝"
+    },
+    {
+      "title": "Interview Prep",
+      "notion_id": "311b3490-e35a-81a7-b3f2-ff4162591bad",
+      "file": "interview-prep/README.md",
+      "icon": "🎤",
+      "subpages": [
+        {
+          "title": "Tech — SWE & Data Engineering",
+          "file": "interview-prep/tech.md",
+          "notion_id": null
+        },
+        {
+          "title": "Data Science",
+          "file": "interview-prep/data-science.md",
+          "notion_id": null
+        },
+        {
+          "title": "Data Analytics",
+          "file": "interview-prep/data-analytics.md",
+          "notion_id": null
+        },
+        {
+          "title": "Finance & Consulting",
+          "file": "interview-prep/finance-consulting.md",
+          "notion_id": null
+        },
+        {
+          "title": "DevOps / SRE / Infra",
+          "file": "interview-prep/devops-infra.md",
+          "notion_id": null
+        }
+      ]
+    },
+    {
+      "title": "Offer & Negotiation",
+      "notion_id": "311b3490-e35a-81a9-829a-e2d2effdcd6b",
+      "file": "offer-negotiation/README.md",
+      "icon": "💰"
+    },
+    {
+      "title": "Benefits",
+      "notion_id": "311b3490-e35a-81aa-99ce-f4b7df78f45d",
+      "file": "benefits/README.md",
+      "icon": "🏥"
+    },
+    {
+      "title": "Visa / OPT Track",
+      "notion_id": "311b3490-e35a-81f7-ab26-d7e87f6ec327",
+      "file": "visa-opt/README.md",
+      "icon": "🛂"
+    },
+    {
+      "title": "Job Search in the AI Age",
+      "notion_id": "311b3490-e35a-818c-b6d6-ccf8817f2f07",
+      "file": "ai-age-job-search.md",
+      "icon": "🤖"
+    },
+    {
+      "title": "People & Resources",
+      "notion_id": "311b3490-e35a-814b-9a7f-fcb14326fb62",
+      "file": "people-and-resources/README.md",
+      "icon": "👥"
+    }
+  ]
+}

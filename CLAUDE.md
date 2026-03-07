@@ -31,16 +31,42 @@ A free resource hub for new grads, early career professionals, and F-1/OPT candi
 
 ## Architecture
 - GitHub (vanjara/early-career-guide) — source of truth, markdown files
-- Notion — public-facing hub built via API
+- Notion — public-facing hub, updated via scripts in scripts/
+- GitHub Pages (vanjara.github.io/early-career-guide) — landing page only, links to Notion
+- Sync direction: GitHub → Notion only. Never edit Notion directly — changes will be overwritten.
 
 ## Notion API
 - Parent page ID: 311b3490-e35a-80bb-afcf-fb14f5a27feb
 - Integration: Early Career Guide Builder (internal)
-- Token: stored in scripts — revoke after use, do not commit to GitHub
+- Token: in .env as NOTION_TOKEN — never commit
+- Page IDs and file mappings: scripts/pages.json
+- Run scripts from project root: `set -a && source .env && set +a && python3 scripts/...`
+
+## Notion block structure — critical
+- Interview Prep tracks are TOGGLE blocks with children, not heading_2 blocks
+- Always check block types before writing: `GET /blocks/{page_id}/children`
+- Adding children to a heading only works if `is_toggleable: true`
+- When appending to a page, blocks become direct siblings — heading_3 is NOT a child of heading_2
+- Always read the existing page structure before writing anything
 
 ## Key files
-- `notion-import/` — clean markdown versions of all Notion pages
+- `scripts/pages.json` — Notion page IDs and markdown file mapping
+- `scripts/sync_to_notion.py` — main sync script (TODO: build this)
 - `interview-prep/` — track-specific interview prep content
-- `people-to-follow/README.md` — people list (markdown)
+- `people-and-resources/README.md` — pulled from Notion, reflects current state
 - `ai-age-job-search.md` — AI age section content
-- Python scripts — one-off Notion API scripts, not a framework
+
+## What still needs to be done
+- Fix Interview Prep Notion page: delete malformed DevOps/DS heading blocks, re-add as toggle blocks
+- Build scripts/sync_to_notion.py for GitHub → Notion sync
+- Set up GitHub Actions to run sync on push to main
+- Update CONTRIBUTING.md to reflect new workflow
+- Commit all pending changes (nothing has been committed this session)
+
+## Lessons from a badly run session (2026-03-06)
+- Do not create throwaway scripts in /tmp — build reusable scripts in scripts/ from the start
+- Do not change sync direction mid-session — decide once and commit to it
+- Check Notion block types first, write second — wrong block type means rework
+- Commit frequently — not one giant commit at the end of a 4-hour session
+- Do not add content to Notion without checking existing page structure first
+- One script that does everything > many small throwaway scripts

@@ -40,17 +40,16 @@ No hustle content. No paid courses. Just a practical system — what to do, in w
 | [Offer & Negotiation](./offer-negotiation/) | How to evaluate and negotiate an offer |
 | [Benefits](./benefits/) | Health, dental, vision, 401k, RSUs, ESPP explained |
 | [Visa / OPT Track](./visa-opt/) | OPT timeline, finding sponsors, H1B basics |
-| [People to Follow](./people-to-follow/) | Curated by track — signal, not noise |
+| [People & Resources](./people-and-resources/) | Curated by track — signal, not noise |
 
 ---
 
 ## The honest timeline
 
 ```
-Actively searching, doing everything right:    8–12 weeks to an offer
-Passively applying, Easy Apply only:           5–6 months, maybe longer
-OPT candidates:                                Start before graduation
-                                               Your clock starts at graduation day
+Strong candidate, doing everything right:      3–6 months
+Average candidate, spray and pray:             6–12 months, no guarantee
+OPT candidates:                                Start 6 months before graduation — not 60 days
 ```
 
 If you're 3 weeks in and discouraged — that's normal.

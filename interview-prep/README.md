@@ -106,7 +106,8 @@ STAR works for 90% of behavioral questions. These are worth knowing for specific
 
 ## Track-specific prep
 
-- [Tech — SWE, Data Engineering, Data Science](./tech.md)
+- [Tech — SWE and Data Engineering](./tech.md)
+- [Data Science](./data-science.md)
 - [Data Analytics](./data-analytics.md)
 - [Finance and Consulting](./finance-consulting.md)
 
