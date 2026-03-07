@@ -11,7 +11,7 @@
 - Candidates on F-1 OPT or student visa navigating job search with visa constraints
 - Master's students (MS in CS, data science, analytics, finance) transitioning or pivoting
 
-**If you're an MS student:** An MS opens some doors and is irrelevant at others. It matters for ML/AI research, quant roles, grad-specific consulting tracks, and data scientist roles at larger companies. It doesn't matter for most SWE, startup, or PM roles — those evaluate skills and interviews, not degree level. The risk: competing for undergrad-level roles while carrying grad-level salary expectations. Target roles that explicitly value a graduate degree. Your thesis, TA experience, and any pre-MS work experience are all legitimate portfolio and resume items — lead with them.
+**If you're an MS student:** The positioning question matters more than the degree itself. Target roles that explicitly value a graduate degree — don't apply as if you're competing with undergrads. Your thesis or capstone project, TA or research experience, and any pre-MS work experience are all legitimate portfolio and resume items — lead with them.
 
 ---
 

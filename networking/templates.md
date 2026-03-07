@@ -18,7 +18,9 @@ Copy, customize, send. Don't send the exact template — make it specific to the
 
 ## Outreach before applying to a company
 
-> *"Hi [Name], I came across the [Role] posting at [Company] and it lines up closely with my background in [X]. Before applying I wanted to get a sense of the team and culture from someone inside. Would you have 15-20 minutes to chat? No pressure at all."*
+Target a peer on the team — not the hiring manager. You're asking for their experience, not for a job.
+
+> *"Hi [Name], I'm exploring a role on [Team] at [Company] and came across your profile. I'd love to hear about your experience there before I apply — what the team is like, what you'd look for in someone in this role. Would you have 20 minutes?"*
 
 ---
 
@@ -30,7 +32,11 @@ Copy, customize, send. Don't send the exact template — make it specific to the
 
 ## Hiring manager outreach (smaller companies / startups)
 
-> *"Hi [Name], I came across the [Role] posting at [Company] and it lines up closely with my background in [X]. I'd love to learn more about the team and what you're looking for — would you be open to a quick 15-minute call?"*
+For larger companies, contact the recruiter listed on the posting — hiring managers at large companies typically don't manage inbound candidate outreach. For smaller companies and startups, a direct note to the hiring manager can work.
+
+> *"Hi [Name], I wanted to follow up on my application for [Role]. My background in [specific area] is directly relevant — [one concrete sentence: built X, led Y, delivered Z]. I am happy to answer any questions or provide additional context."*
+
+Keep it brief and professional. Lead with what's relevant — don't make them search for the connection.
 
 ---
 

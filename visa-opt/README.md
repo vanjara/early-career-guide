@@ -6,13 +6,15 @@ If you're on F-1 OPT or about to be, your job search has constraints that don't 
 
 This section is not about immigration law. It's about how to run your job search given the reality of your situation.
 
+**Your DSO (Designated School Official)** is the advisor at your university's international student office who manages your F-1 status. They authorize OPT, CPT, and STEM extensions. When this guide says "talk to your DSO" — this is the person.
+
 ---
 
 ## The OPT timeline — what you can't miss
 
 ```
-60 days before graduation    Apply for OPT through your DSO (international student office)
-                             USCIS processing takes 3-5 months — apply early
+60–90 days before graduation Apply for OPT through your DSO (international student office)
+                             USCIS processing times vary — check uscis.gov for current times and apply early
 
 Graduation                   OPT start date can be up to 60 days after graduation
                              You choose the start date — pick strategically
@@ -25,6 +27,8 @@ Before OPT expires           Employer files H1B (April lottery, starts October)
 ```
 
 **The mistake most people make:** Waiting until graduation to start the job search. By then you may have already burned 60 days of your unemployment clock. Start your search before you graduate.
+
+**On your OPT start date:** Your unemployment clock starts on your OPT start date — not graduation. If you graduate May 15 and set your OPT start date to July 1, you have until July 1 before the clock begins. Choose your start date strategically. Students who start OPT immediately sometimes burn days before their EAD card even arrives.
 
 ---
 
@@ -49,7 +53,7 @@ During OPT you can only be unemployed for 90 days total (150 days with STEM exte
 - Start your job search before graduation
 - If you're approaching 60 days unemployed, escalate urgency
 - Part-time work and contract work count — some people do this while searching
-- Volunteer work and unpaid internships do NOT count toward employment
+- Volunteer work does not count. Unpaid internships may qualify if structured correctly — confirm with your DSO.
 
 Track your days. Your DSO tracks them too.
 
@@ -57,16 +61,16 @@ Track your days. Your DSO tracks them too.
 
 ## Finding companies that actually sponsor
 
-Many companies say "we consider all candidates" and mean "we don't sponsor."
+Don't apply randomly. Start with companies that have already sponsored your role.
 
-**How to vet companies before you apply:**
+Go to **H1Bdata.info** and search by job title — not just company name. Look for:
+- Companies that have filed H1B petitions for your exact job title
+- Volume of filings over the past 3 years (more = established process)
+- Approval rates
 
-1. Go to **H1Bdata.info**
-2. Search the company name
-3. Look at: how many H1B petitions filed, for what roles, at what salaries, and approval rates
+History predicts sponsorship better than anything a job description says. A company with 200 filings and 180 approvals in your role is a real sponsor. A company with zero filings claiming they "consider sponsorship" is probably not worth your time.
 
-A company with 200 filings and 180 approvals over 3 years — real sponsor.
-A company with zero filings claiming they "consider sponsorship" — probably not worth your time.
+Many companies say "we consider all candidates" and mean "we don't sponsor." The H1B filing record is the truth.
 
 See [sponsorship.md](./sponsorship.md) for a detailed guide on vetting companies.
 
@@ -91,8 +95,8 @@ Most recruiters will appreciate the directness. If they can't sponsor, you've sa
 Your employer files an H1B petition on your behalf in April. USCIS runs a lottery.
 
 ```
-April 1        Registration window opens
-Mid-April      Lottery results announced
+~Early March   Registration window opens (dates shift year to year — confirm on uscis.gov)
+~Late March    Lottery results announced
 April–June     Selected employers file full petitions
 October 1      H1B status begins (new fiscal year)
 ```
@@ -101,7 +105,17 @@ October 1      H1B status begins (new fiscal year)
 - 65,000 regular cap
 - 20,000 additional for US master's degree holders — if you have a US master's, you get two lottery entries
 
-Lottery odds have been roughly 30-40% in recent years. Even doing everything right, there's a real chance of not being selected the first time. Plan for this. Have a backup plan.
+Lottery odds vary year to year — check the USCIS website for the most recent selection rates. Even doing everything right, there's a real chance of not being selected the first time. Plan for this. Have a backup plan.
+
+---
+
+## Cap-gap extension
+
+If your employer files an H-1B petition that is selected in the lottery, your OPT automatically extends until October 1. This bridges the gap between OPT expiration and your H-1B start date.
+
+⚠️ Cap-gap only applies if the H-1B petition requests a **change of status**. If your employer filed for consular processing instead, cap-gap does not apply — this can create a work gap. Confirm with your DSO which type was filed.
+
+Source: [USCIS Cap-Gap Extension](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/students/cap-gap-extension)
 
 ---
 
@@ -164,7 +178,7 @@ At offer stage
 □ Understand start date relative to H1B filing timeline
 
 H1B cycle
-□ Employer registers by April 1
+□ Employer registers by early March (confirm dates on uscis.gov)
 □ Know your lottery result before making other plans
 □ Have a backup plan if not selected
 ```

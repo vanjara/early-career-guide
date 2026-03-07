@@ -13,7 +13,7 @@
 | Campus recruiting | High | Structured programs for new grads |
 | Job boards | Lowest | Highest volume, lowest conversion |
 
-Most people start at job boards. This guide pushes you toward referrals and campus recruiting.
+Job boards are discovery tools, not hiring channels. This guide pushes you toward referrals and campus recruiting.
 
 ---
 
@@ -21,7 +21,7 @@ Most people start at job boards. This guide pushes you toward referrals and camp
 
 | Platform | Best for | Notes |
 |---|---|---|
-| Handshake | All tracks | University-connected, companies actively recruiting new grads |
+| Handshake | All tracks | University recruiting platform. Companies here are actively targeting students and new grads. Strong for career fairs, employer info sessions, and structured campus recruiting programs. Many schools keep access active for 1–2 years after graduation — confirm with your career office. |
 | RippleMatch | All tracks | AI-matched early career roles, less noise than LinkedIn |
 | WayUp | All tracks | Entry-level and internships specifically |
 | Simplify.jobs | Tech + Business | Aggregates early career roles, auto-fills applications |
@@ -34,10 +34,10 @@ Most people start at job boards. This guide pushes you toward referrals and camp
 | Platform | Best for | Notes |
 |---|---|---|
 | Wellfound (AngelList) | Startups | Transparent salary + equity upfront |
-| Levels.fyi | Big tech | Compensation data + job listings |
+| Levels.fyi | Big tech | Compensation data and curated job listings |
 | Y Combinator job board | YC startups | work.ycombinator.com — curated, high signal |
-| Dice | Tech broadly | Large volume of tech roles |
-| Kaggle Jobs | Data science | Niche but good quality |
+| Dice | Tech broadly | Large volume, mixed quality |
+| Kaggle Jobs | Data science | Niche board, lower volume |
 | Built In | Tech-adjacent | Data, ops, analytics, growth roles |
 
 ---
@@ -74,7 +74,7 @@ Build a list of 20–30 companies you want to work at. Bookmark their careers pa
 
 ### Structured new grad programs — application windows August–October
 
-**Tech:** Google, Meta, Amazon, Microsoft, Apple — apply directly on career pages, not through job boards.
+**Tech:** Most big tech companies run structured new grad hiring cycles — apply directly on their career pages, not through job boards.
 
 **Finance / Consulting:** Goldman Sachs, JPMorgan, McKinsey, BCG, Bain, Big 4 — campus recruiting calendar on their websites.
 

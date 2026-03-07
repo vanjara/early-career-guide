@@ -18,6 +18,21 @@ The recruiter screen is eliminatory — clear it and you're in the real process.
 
 ---
 
+## What interviewers are actually evaluating
+
+Interviewers aren't just checking whether you got the right answer. They're reading signals.
+
+| Round | What they're actually evaluating |
+|---|---|
+| Recruiter screen | Whether the process should continue |
+| Technical interview | How you think — problem decomposition, communication, edge cases |
+| Behavioral interview | How you work — ownership, self-awareness, collaboration |
+| Hiring manager screen | Whether you'd be good to work with |
+
+Understanding this changes how you prepare. A technical question where you arrive at the wrong answer but communicate clearly, catch your own mistakes, and ask good clarifying questions will often score better than a silent correct solution.
+
+---
+
 ## The recruiter screen
 
 They're checking three things:

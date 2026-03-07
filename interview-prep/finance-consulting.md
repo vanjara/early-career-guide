@@ -30,7 +30,7 @@ Income statement → net income flows to retained earnings on balance sheet and 
 
 > *"What happens to the three statements if depreciation increases by $10?"*
 
-Income statement: EBIT down $10, tax down ~$3 (assuming 30% tax rate), net income down ~$7. Cash flow: net income down $7, add back depreciation +$10, cash from operations up $3. Balance sheet: PP&E down $10, cash up $3, retained earnings down $7. Assets down $7, equity down $7. Balanced.
+Income statement: EBIT down $10, tax down ~$3 (assuming ~30% tax rate — confirm the rate given), net income down ~$7. Cash flow: net income down $7, add back depreciation +$10, cash from operations up $3. Balance sheet: PP&E down $10, cash up $3, retained earnings down $7. Assets down $7, equity down $7. Balanced.
 
 **Other questions to prepare:**
 

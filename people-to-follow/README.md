@@ -1,4 +1,4 @@
-# People to Follow
+# People & Resources
 
 ## The filter
 
@@ -8,19 +8,6 @@ Everyone on this list:
 - Posts consistently
 
 **The rule:** Follow 5-10 people max, not 50. More follows = more noise. Pick one person per category that resonates with how you think and go deep on their content.
-
----
-
-## Job Search & Career (general)
-
-**Laszlo Bock** — LinkedIn
-Former SVP of People Operations at Google. Wrote *Work Rules*. Posts on resumes, hiring, and what companies actually look for. He's seen millions of resumes from the other side of the table.
-
-**Austin Belcak** — LinkedIn
-Practical job search tactics — networking scripts, resume strategy, cold outreach. More tactical than most, less fluffy.
-
-**Jenny Foss** — LinkedIn
-Resume and career strategy, especially for career changers and early career. Clear, no-nonsense advice.
 
 ---
 
