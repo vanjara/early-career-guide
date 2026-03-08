@@ -2,8 +2,8 @@
 
 A practical guide for new grads in tech, business, and finance — including F-1 OPT candidates.
 
-**The guide lives on Notion:**
-[arrow-cherry-fe5.notion.site/Early-Career-Job-Search-Guide](https://arrow-cherry-fe5.notion.site/Early-Career-Job-Search-Guide-311b3490e35a80bbafcffb14f5a27feb)
+**The guide:**
+[tinyurl.com/early-career-guide](https://tinyurl.com/early-career-guide)
 
 ---
 
