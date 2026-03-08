@@ -1,0 +1,31 @@
+name: Suggest a correction or resource
+description: Something is wrong, outdated, or missing from the guide.
+labels: []
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: What kind of suggestion is this?
+      options:
+        - Correction (something is wrong or outdated)
+        - New resource to add
+        - Broken link
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: section
+    attributes:
+      label: Which section does this relate to?
+      placeholder: e.g. Job Boards, Visa / OPT, Interview Prep
+    validations:
+      required: false
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What should change?
+      description: Be specific. If it's a correction, say what's wrong. If it's a resource, include the link and why it's useful.
+    validations:
+      required: true

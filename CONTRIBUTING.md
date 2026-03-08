@@ -1,29 +1,25 @@
 # Contributing
 
-Thanks for helping keep this useful.
+The guide lives on Notion. This repo is where you suggest changes.
 
-## What we want
+## How to contribute
 
-- New job boards or resources (with a note on why they're useful)
-- Updated links (things go stale)
-- Interview experiences (anonymized)
-- Companies confirmed to sponsor H1B (with source)
+[Open an issue](https://github.com/vanjara/early-career-guide/issues/new/choose) and describe:
+- What's wrong or outdated
+- What you'd like to add, and why it's useful
+
+Someone will review it and update the guide if it fits.
+
+## What's in scope
+
 - Corrections to anything inaccurate
+- Updated or broken links
+- Job boards or resources worth adding (with a note on why)
+- Companies confirmed to sponsor H1B (with a source)
 
-## What we don't want
+## What's out of scope
 
 - Referral links or affiliate links
 - Paid courses or services
 - Generic advice without specific value
 - Anything you haven't personally used or verified
-
-## How to contribute
-
-1. Fork the repo
-2. Make your changes in a new branch
-3. Open a pull request with a short description of what you changed and why
-4. Keep it focused — one change per PR is easier to review
-
-## Not sure if something fits?
-
-Open an issue first and describe what you want to add.
