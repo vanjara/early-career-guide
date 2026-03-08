@@ -1,43 +1,20 @@
-# Job Search in the AI Age
+> ℹ️ This guide is maintained by volunteers and reflects our best understanding of the job market. Company hiring practices, visa rules, and market conditions change. Cross-check anything critical — visa rules, hiring timelines, salary ranges — against primary sources before acting. Last updated: March 2026.
 
-## The market has changed. The playbook needs to change with it.
-
-AI tools have made it trivially easy to apply to hundreds of jobs. Everyone is doing it. Companies are now receiving 1,000–2,000 applications for roles that used to get 200. ATS filters are stricter. Recruiters are more overwhelmed. And entry-level roles — the ones new grads are competing for — are the hardest hit.
-
-The old model — optimize resume → apply broadly → get interviews → convert — is less reliable than it used to be for most people in most markets.
-
-The new model: **build presence → get found → apply selectively → convert.**
-
-This section explains what that actually means in practice.
+> 🤖 The old playbook is less reliable than it used to be. AI tools have flooded recruiters with applications. The candidates getting hired are not the ones applying the most — they’re the ones who are most known.
 
 ---
 
-## What AI has changed
+## What has changed
 
-**Applications have become noise**
-
-When anyone can apply to 50 jobs in an afternoon using auto-fill tools and AI-generated cover letters, applications lose signal. Recruiters and ATS systems have adapted. Generic looks even more generic now.
-
-**Entry-level is the hardest hit**
-
-AI has compressed a lot of what new grads used to be hired to do — basic data analysis, first-draft writing, simple code. Companies are hiring fewer junior roles and expecting more from the ones they fill. The gap between "entry level" and "no experience" has widened significantly.
-
-**What hasn't changed**
-
-Referrals still convert. Human relationships still matter. Demonstrated, specific skills still get attention. These have always been the highest-leverage activities — the AI shift just makes them non-optional.
+AI tools have made it trivially easy to apply to hundreds of jobs. Everyone is doing it. Companies now receive 1,000–2,000 applications for roles that used to get 200. Entry-level roles are the hardest hit — AI has compressed a lot of what new grads used to be hired to do.
 
 ---
 
 ## The honest timeline
 
-```
-Strong candidate, doing everything right:    3–6 months
-Average candidate, spray and pray approach:  6–12 months, no guarantee
-OPT candidates with visa timeline:           Start 6 months before graduation
-                                             Not 60 days before
-```
-
-If you're in month 2 and discouraged — that's normal. If you're in month 5 with no traction — something in your approach needs to change, not just your effort level.
+> Strong candidate, doing everything right: 3–6 months
+Average candidate, spray and pray: 6–12 months, no guarantee
+OPT candidates: Start 6 months before graduation — not 60 days
 
 ---
 
@@ -45,62 +22,55 @@ If you're in month 2 and discouraged — that's normal. If you're in month 5 wit
 
 ### 1. Build presence — be findable, not just searchable
 
-In a high-volume market, a recruiter or hiring manager who finds you is worth more than 50 applications you send. That means having something to find.
+A recruiter or hiring manager who finds you is worth more than 50 applications you send.
 
-**Tech (SWE, Data Engineering, Data Science)**
-- GitHub with real projects — not tutorials, actual things you built
+### 💻 Tech (SWE, Data Engineering, Data Science)
+
+- GitHub with real projects — not tutorials, things you actually built
 - READMEs that explain your thinking, not just your code
-- Contributions to open source (even small ones signal you can work in a real codebase)
-- A portfolio site if you have projects worth showing
+- Contributions to open source — even small ones signal you can work in a real codebase
+- Portfolio site if you have projects worth showing
+### 📊 Data Analytics
 
-**Data Analytics**
 - Published analyses on Kaggle, GitHub, or a personal site
-- Show a business question → your approach → your answer → what you'd do differently
-- Not "I analyzed this dataset" — "here's what I found and why it matters"
+- Not 'I analyzed this dataset' — 'here's what I found and why it matters'
+### 💰 Finance / Consulting
 
-**Finance / Consulting**
 - Write about a company you've analyzed — what's their problem, what would you do
-- Post your take on a deal, an earnings report, a market trend
+- Post your take on a deal, earnings report, or market trend
 - One good piece of public thinking beats 50 anonymous applications
+### All tracks — LinkedIn content
 
-**All tracks — LinkedIn content**
-- You don't need to post daily. One post per week about something you learned, built, or figured out is enough.
+- One post per week about something you learned, built, or figured out is enough
 - Write about problems you solved, not just positions you've held
 - Recruiters search LinkedIn by skill and keyword — your content indexes you
+---
+
+### 2. Use AI to research and prepare — not to mass-apply
+
+> 💡 Most candidates use AI to write generic cover letters at scale. Use it differently.
+
+### For company research
+
+Use ChatGPT or Perplexity to summarize a company's recent earnings, strategy, challenges, and competitive position before every interview and targeted application.
+
+### For interview prep
+
+Simulate interviews with AI. Give it the job description and ask it to interview you. Ask it to push back on your answers. More effective than reading prep guides.
+
+### For resume tailoring
+
+Paste the job description and your resume. Ask AI to identify gaps and suggest specific language. Do this for every application — not the cover letter, the resume keywords.
+
+### For networking prep
+
+Ask AI to help you understand someone's background before a call. 'This person worked at X and Y, transitioned from A to B — what questions should I ask?' Preparation makes every conversation better.
 
 ---
 
-### 2. Use AI to research and prepare — not to apply
+### For competitive roles, referrals increase the odds of getting seen
 
-Most candidates use AI to write generic cover letters at scale. The candidates who stand out use AI differently.
-
-**For company research:**
-> Use ChatGPT or Perplexity to summarize a company's recent earnings, strategy, challenges, and competitive position before every interview and every targeted application. Know more about the company than the recruiter expects you to.
-
-**For interview prep:**
-> Simulate interviews with AI. Give it the job description and ask it to interview you. Ask it to push back on your answers. This is more effective than reading prep guides.
-
-**For resume tailoring:**
-> Paste the job description and your resume, ask AI to identify gaps between them and suggest specific language. Do this for every application — not the cover letter, the resume keywords.
-
-**For networking:**
-> Ask AI to help you understand someone's background before a call. "This person has worked at X and Y, transitioned from A to B — what questions should I ask them?" Preparation makes every conversation better.
-
----
-
-### 3. For competitive roles, referrals increase the odds of getting seen
-
-Referrals always had better conversion than cold applications. In the current market, for competitive roles, they're often the only way your resume gets seen by a human.
-
-This means the networking section of this guide is not a supplement to your job search. It is your job search. Applications are what you do for companies where you don't have a connection. Referrals are what you target first.
-
-**How to think about your target list differently:**
-
-Old approach: find 30 companies with open roles → apply
-
-New approach: find 30 companies you want to work at → find someone who works there → have a conversation → apply with a referral → repeat
-
-The application is the last step, not the first.
+In the current market, for competitive roles, a referral is often the only way your resume gets seen by a human.
 
 ---
 
@@ -109,54 +79,50 @@ The application is the last step, not the first.
 Instead of 10–15 applications per week, think 3–5 — with genuine research behind each one.
 
 For every targeted application:
+
 - Read their recent news, earnings, or product updates
 - Understand what the team is working on
 - Tailor your resume to mirror their exact language
 - Reference something specific in your outreach
-
-This takes more time per application. It converts at a higher rate. In a market where everyone is applying everywhere, depth is the differentiator.
+> 💡 Depth is the differentiator in a market where everyone is applying everywhere.
 
 ---
 
 ### 5. Skills that stand out in an AI market
 
-AI can generate code, run queries, and write first drafts. It cannot own outcomes, navigate ambiguity, or build relationships. The skills that remain most valuable are the ones AI doesn't replace.
+AI can generate code, run queries, and write first drafts. It cannot own outcomes, navigate ambiguity, or build relationships.
 
-**Tech:** System design, debugging complex problems, owning a project end-to-end, clear technical communication
-
-**Data:** Framing the right business question, communicating findings to non-technical stakeholders, judgment about what to measure
-
-**Finance:** Client relationships, judgment in ambiguous situations, synthesizing qualitative and quantitative signals
-
-**All tracks:** Written communication, structured thinking, the ability to learn fast
-
-Show these in your resume, your projects, your LinkedIn, and your interviews. Not just "I know Python" — "here's what I built with it and what it did."
+| Track | What stands out now |
+|---|---|
+| Tech | System design, debugging complex problems, owning a project end-to-end, clear technical communication |
+| Data | Framing the right business question, communicating findings to non-technical stakeholders, judgment about what to measure |
+| Finance | Client relationships, judgment in ambiguous situations, synthesizing qualitative and quantitative signals |
+| All tracks | Written communication, structured thinking, ability to learn fast |
 
 ---
 
-## AI tools that actually help the job search
-
-These are for research, preparation, and skill-building — not mass-applying.
+## AI tools that actually help
 
 | Tool | How to use it |
 |---|---|
-| **ChatGPT / Claude** | Company research, interview simulation, resume tailoring, outreach drafts |
-| **Perplexity** | Real-time company and industry research before interviews |
-| **LinkedIn** (search, not feed) | Find people to reach out to, research hiring managers |
-| **Simplify.jobs** | Track applications and auto-fill forms — not to apply to 100 jobs, but to be organized |
-| **GitHub Copilot** | Build better portfolio projects faster |
-| **Glassdoor / Blind** | Research interview processes and company culture before applying |
+| [ChatGPT / Claude](https://chatgpt.com/) | Company research, interview simulation, resume tailoring, outreach drafts |
+| [Perplexity](https://www.perplexity.ai/) | Real-time company and industry research before interviews |
+| LinkedIn (search, not feed) | Find people to reach out to, research hiring managers |
+| [Simplify.jobs](https://simplify.jobs/) | Track applications and auto-fill forms — not to apply to 100 jobs, but to stay organized |
+| [GitHub Copilot](https://github.com/features/copilot) | Build better portfolio projects faster |
+| [Glassdoor / Blind](https://www.glassdoor.com/) | Research interview processes and culture before applying |
 
 ---
 
 ## What to stop doing
 
-- **Auto-applying to 50+ jobs/week** — the signal-to-noise ratio is near zero
-- **Generic cover letters** — if it could apply to any company, it adds no value
-- **Easy Apply for competitive roles** — treat it as a last resort, not a strategy
-- **Spending 3 weeks perfecting your resume before applying** — good enough and out the door beats perfect and waiting
-- **Following up more than once** — it doesn't help and it damages the relationship
+> ⚠️ Stop doing these — they feel productive but don't convert.
 
+- Auto-applying to 50+ jobs per week — signal-to-noise ratio is near zero
+- Generic cover letters — if it could apply to any company, it adds no value
+- Easy Apply for competitive roles — treat it as a last resort, not a strategy
+- Spending weeks perfecting your resume before applying — good enough and out the door beats perfect and waiting
+- Following up more than once after applying — it doesn't help and damages the relationship
 ---
 
 ## The reframe
@@ -164,3 +130,5 @@ These are for research, preparation, and skill-building — not mass-applying.
 You are no longer competing on applications. You are competing on signal — your visibility, your relationships, the specificity of your preparation.
 
 Build presence. Build relationships. Apply selectively.
+
+---

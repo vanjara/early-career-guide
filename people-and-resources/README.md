@@ -1,8 +1,6 @@
-# People & Resources
+> ℹ️ This guide is maintained by volunteers and reflects our best understanding of the job market. Company hiring practices, visa rules, and market conditions change. Cross-check anything critical — visa rules, hiring timelines, salary ranges — against primary sources before acting. Last updated: March 2026.
 
-> This guide is maintained by volunteers and reflects our best understanding of the job market. Company hiring practices, visa rules, and market conditions change. Cross-check anything critical — visa rules, hiring timelines, salary ranges — against primary sources before acting. Last updated: March 2026.
-
-> Follow 5–10 people max, not 50. More follows = more noise. Pick one person per category that resonates with how you think and go deep. The goal is a system, not a feed.
+> 💡 Follow 5–10 people max, not 50. More follows = more noise. Pick one person per category that resonates with how you think and go deep. The goal is a system, not a feed.
 
 ---
 
@@ -46,18 +44,6 @@
 
 ---
 
-## DevOps / Platform Engineering / Infrastructure Track
-
-Follow these for DevOps tools, cloud infra, Kubernetes, and breaking into the SRE/DevOps field.
-
-| Person | Platform | Why follow |
-|---|---|---|
-| [Nana Janashia](https://www.linkedin.com/in/nana-janashia) | YouTube + LinkedIn | TechWorld with Nana. The most accessible DevOps educator — Docker, Kubernetes, CI/CD, Terraform. Best starting point if you're new to the field. |
-| [Sid Palas](https://www.linkedin.com/in/sid-palas) | YouTube + LinkedIn | DevOps Directive. Hands-on, project-based DevOps content. Terraform, Kubernetes, CI/CD pipelines. Practical over theoretical. |
-| [Kunal Kushwaha](https://www.linkedin.com/in/kunal-kushwaha) | YouTube + LinkedIn | CNCF Ambassador. DevOps bootcamp, platform engineering, cloud-native tools. Strong community around breaking into DevOps. |
-
----
-
 ## Subreddits worth bookmarking
 
 | Track | Subreddit | Best for |
@@ -72,13 +58,27 @@ Follow these for DevOps tools, cloud infra, Kubernetes, and breaking into the SR
 
 ---
 
+## DevOps / Platform Engineering / Infrastructure Track
+
+Follow these for DevOps tools, cloud infra, Kubernetes, and breaking into the SRE/DevOps field.
+
+| Person | Platform | Why follow |
+|---|---|---|
+| [Nana Janashia](https://www.linkedin.com/in/nana-janashia) | YouTube + LinkedIn | TechWorld with Nana. The most accessible DevOps educator — Docker, Kubernetes, CI/CD, Terraform. Best starting point if you're new to the field. |
+| [Sid Palas](https://www.linkedin.com/in/sid-palas) | YouTube + LinkedIn | DevOps Directive. Hands-on, project-based DevOps content. Terraform, Kubernetes, CI/CD pipelines. Practical over theoretical. |
+| [Kunal Kushwaha](https://www.linkedin.com/in/kunal-kushwaha) | YouTube + LinkedIn | CNCF Ambassador. DevOps bootcamp, platform engineering, cloud-native tools. Strong community around breaking into DevOps. |
+
+---
+
 ## People who offered to help
 
-> The people below reached out and volunteered to help readers of this guide — resume review, career guidance, 1:1 conversations. They're not paid referrals. Reach out directly.
+> 🤝 The people below reached out and volunteered to help readers of this guide — resume review, career guidance, 1:1 conversations. They’re not paid referrals. Reach out directly.
 
 | Person | What they offer | Resource |
 |---|---|---|
 | [Debra Shaw](https://www.linkedin.com/in/gradshired/) | Career coach specifically for new college grads. Has a free job strategy guide. | [Free guide](https://stan.store/gradshired/p/free-guide-get-yourself-hired) |
 | [Amrutha Venkatesh](https://www.linkedin.com/in/amrutha-s-b68ba1100/) | Offers resume review help. | LinkedIn — reach out directly |
 | [Suresh Choudhary](https://www.linkedin.com/in/mrsureshchoudhary/) | 1:1 sessions via Topmate — career guidance and job search support. | [topmate.io/mrsureshchoudhary](https://topmate.io/mrsureshchoudhary) |
-| [Raphael Oliveira-Neves](https://www.linkedin.com/in/raphael-oliveira-neves/) | Director of Engineering at Zendesk. Certified Career & Leadership Coach. GDG London volunteer coach. | LinkedIn — reach out directly |
+| [Raphael Oliveira-Neves](https://www.linkedin.com/in/raphael-oliveira-neves/) | Director of Engineering at Zendesk. Certified Career & Leadership Coach. GDG London volunteer coach. |  |
+
+---
